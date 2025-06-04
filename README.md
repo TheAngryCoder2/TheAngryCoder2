@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [theangrycoder.co.uk](theangrycoder.co.uk)
-
-- 📝 I regularly write articles on [theangrycoder.co.uk](theangrycoder.co.uk)
-
 - 📫 How to reach me **dev@theangrycoder.co.uk**
 
 <h3 align="left">Connect with me:</h3>
